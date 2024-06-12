@@ -1,5 +1,5 @@
 {
-  "name": "@opengcm/xml",
+  "name": "@open-gcm/xml",
   "version": "0.0.1",
   "description": "Xml processing library for Open-GCM",
   "main": "./dist/index.js",
