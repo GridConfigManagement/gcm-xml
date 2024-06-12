@@ -1,0 +1,32 @@
+{
+  "name": "@opengcm/xml",
+  "version": "0.0.1",
+  "description": "Xml processing library for Open-GCM",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-gcm/gcm-xml.git"
+  },
+  "keywords": [
+    "OpenGCM",
+    "XML"
+  ],
+  "author": "Pascal Wilbrink <pascal.wilbrink@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/open-gcm/gcm-xml/issues"
+  },
+  "homepage": "https://github.com/open-gcm/gcm-xml#readme",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "ts-jest": "^29.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
