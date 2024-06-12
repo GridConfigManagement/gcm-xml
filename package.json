@@ -1,6 +1,6 @@
 {
   "name": "@open-gcm/xml",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Xml processing library for Open-GCM",
   "main": "./dist/index.js",
   "browser": "./dist/index.js",
