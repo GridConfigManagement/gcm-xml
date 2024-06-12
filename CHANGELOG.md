@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.3](https://github.com/open-gcm/gcm-xml/compare/v0.0.2...v0.0.3) (2024-06-12)
+
+
+### Bug Fixes
+
+* Added .github folder to npmignore ([1497b4d](https://github.com/open-gcm/gcm-xml/commit/1497b4d785318e69cfa545c4576053547d67a0db))
+
 ## [0.0.2](https://github.com/open-gcm/gcm-xml/compare/v0.0.1...v0.0.2) (2024-06-12)
 
 
