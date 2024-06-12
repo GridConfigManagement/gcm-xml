@@ -10,9 +10,6 @@
 
 XML Processing library
 
----
-
-## TOC
 
 ## Install
 
